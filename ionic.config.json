@@ -1,0 +1,8 @@
+{
+  "name": "well sleep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "55f03de4"
+}
